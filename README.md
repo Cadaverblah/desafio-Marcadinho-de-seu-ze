@@ -131,59 +131,60 @@ Frase de motivação (Busco uma demostrar minhas competências por meio destre t
 
 Integrante 2
 
-Nome:
+Nome: Eduardo Cavalli 
 
-Curso/Formação atual:
+Curso/Formacao atual: Sistemas de Informação 
 
-Competências técnicas (ex.: HTML, Git, GitHub):
+Competências técnicas  HTML, SQL, Pyton 
 
-GitHub:
+Linkedin: www.linkedin.com/in/educavalli
 
-LinkedIn:
-
-Frase de motivação (por que está qualificado para este projeto):
+Frase de motivação: Conhece a ti mesmo e conhecerá tudo
 
 Integrante 3
 
-Nome:
+NOME: Gustavo Rodrigues Broch
 
-Curso/Formação atual:
+Curso/Formação atual: Sistema de informação
 
-Competências técnicas (ex.: HTML, Git, GitHub):
+Compeencias tecnicas ex:HTML, Git, GitHub): HTML, Git, GitHub
 
-GitHub:
+GitHub:suki1ta
 
-LinkedIn:
+Linkedin:Gustavo Rodrigues
 
-Frase de motivação (por que está qualificado para este projeto):
+Frase de motivação:"O sucesso é a soma de pequenos esforços."
+
 
 Integrante 4
 
-Nome:
+Nome: Natali Fernanda Ferraz Nalevaiko
 
-Curso/Formação atual:
+Curso/Formacao atual: Sistemas de Informação 
 
-Competências técnicas (ex.: HTML, Git, GitHub):
+Competências técnicas (ex: HTML, Git, GitHub): HTML, SQL
 
-GitHub:
+GitHub: natalinalevaiko0-eng
 
-LinkedIn:
+Linkedin: www.linkedin.com/in/
 
-Frase de motivação (por que está qualificado para este projeto):
+natali-nalevaiko-ba23b240b
+
+Frase de motivação: Seus esforços serão sim reconhecidos, de tempo ao tempo.
 
 Integrante 5
 
-Nome:
+Nome: Pedro Henrique da Silva Ludwinski
 
-Curso/Formação atual:
+Curso/Formacao atual: Sistemas de Informação 
 
-Competências técnicas (ex.: HTML, Git, GitHub):
+Competências técnicas (ex: HTML, Git, GitHub): HTML, SQL, Git, GitHub.
 
-GitHub:
+GitHub: ludwinks.98s
 
-LinkedIn:
+Linkedin:pedro henrique ludwinski
 
-Frase de motivação (por que está qualificado para este projeto):
+Frase de motivacao: Seja forte hoje, amanhã e sempre.
 
 Integrante 6
 
